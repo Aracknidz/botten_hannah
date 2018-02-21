@@ -1,6 +1,32 @@
 #!/usr/bin/python
 #sudo apt-get install python-mysql.connector
 #print "sys.path is", sys.path
+#sudo apt-get install -y gcc-multilib g++-multilib libffi-dev libffi6 libffi6-dbg python-crypto python-mox3 python-pil python-ply libssl-dev zlib1g-dev libbz2-dev libexpat1-dev libbluetooth-dev libgdbm-dev dpkg-dev quilt autotools-dev libreadline-dev libtinfo-dev libncursesw5-dev tk-dev blt-dev libssl-dev zlib1g-dev libbz2-dev libexpat1-dev libbluetooth-dev libsqlite3-dev libgpm2 mime-support netbase net-tools bzip2
+#sudo apt-get install build-essential checkinstall
+#sudo apt-get install libreadline-gplv2-dev libncursesw5-dev libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev
+#cd ~/DOWNLOADS/
+#wget http://python.org/ftp/python/2.7.9/Python-2.7.9.tgz
+#tar -xvf Python-2.7.9.tgz
+#cd Python-2.7.9
+#./configure --prefix /usr/local/lib/python2.7.9 --enable-ipv6
+#make
+#sudo make install
+#sudo checkinstall
+#make clean
+#sudo apt-get install python-dev
+#sudo apt-get install python-setuptools
+#sudo apt-get install python-pip //easy_install 
+#sudo apt-get install gem
+#pip install -U pip setuptools
+#sudo apt-get install python-networkmanager
+#sudo pip install pyreadline
+#sudo apt-get update && sudo apt-get upgrade
+#sudo apt-get install gksu
+#sudo apt-get INSTALL python-mysqldb
+#sudo apt-get install build-essential python-dev libmysqlclient-dev libmariadbclient-dev
+#sudo pip install scapy
+#sudo apt-get install bridge-utils wireless-tools tshark
+
 import time, os, sys
 import curses
 import subprocess, threading
