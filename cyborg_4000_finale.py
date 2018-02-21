@@ -31,7 +31,6 @@
 # sudo apt-get INSTALL python-mysqldb
 # sudo apt-get install build-essential python-dev libmysqlclient-dev libmariadbclient-dev
 # sudo pip install scapy
-# sudo apt-get install bridge-utils wireless-tools tshark
 #
 # 3) upload the sniffer.cpp and compile using the terminal: "sudo gcc sniffer.cpp -o sniffer"
 #
